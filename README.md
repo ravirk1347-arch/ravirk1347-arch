@@ -1,3 +1,5 @@
+HI I AM RAVI KUMAR
+
 # 💫 About Me:
 🔭 I’m currently working on ui/ux design <br>👯 I’m looking to collaborate on video editing and ui design <br>🤝 I’m looking for help with rust coding <br>🌱 I’m currently learning ruby <br>💬 Ask me about ui/ux design <br>⚡ Fun fact i love to design 
 
